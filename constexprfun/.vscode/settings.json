@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "cmath": "cpp",
+        "*.tcc": "cpp"
+    },
+    "cmake.touchbar.advanced": {
+        "build": "default"
+    }
+}

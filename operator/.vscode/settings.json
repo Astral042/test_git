@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "cmath": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp"
+    },
+    "cmake.touchbar.advanced": {
+        "build": "default"
+    },
+    /// clangd
+    "clangd.fallbackFlags": [
+        "-std=c++23",
+        "-I${workspaceFolder}",
+        "-ID:\\xlu\\mingw64\\include",
+    ]
+}

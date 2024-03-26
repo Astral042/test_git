@@ -1,0 +1,12 @@
+{
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.suggestSelection": "recentlyUsed",
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.autocomplete": "default",
+    "files.associations": {
+        "fstream": "cpp"
+    }
+}
